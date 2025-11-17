@@ -1,0 +1,15 @@
+# Isaac Lab and Core Dependencies
+isaaclab>=2.2.0
+torch==2.070
+numpy>=1.21.0
+
+# Inverse Kinematics
+pinocchio>=2.6.0
+
+# Simulation and RL
+gymnasium>=0.27.0
+scipy>=1.7.0
+
+# Utilities
+tqdm>=4.50.0
+pyyaml>=5.3.0
